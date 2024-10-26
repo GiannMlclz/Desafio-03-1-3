@@ -17,20 +17,78 @@ h1 {
 
 .parrafos {
     font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+    text-align: justify;
     
 }
 
-.subtitulos {
+/* este mensaje es para los profes, me podrian explicar como darle mejor forma a los id y class, porque yo lo hice de esta manera pero calculo que hay una manera mas optima o mejor para hacerla */
+
+.subtitulo-aspiradora {
     font-family: Arial, Gadget, sans-serif;
     font-size: 32px;
     font-style: oblique;
     font-variant: small-caps;
-    color: rgb(230, 203, 191);
+    color: rgb(230, 203, 191)
 }   
 
-.imagenes {
+.foto-aspiradora {
     margin-left: 50px;
     padding: 5px 5px 5px 5px;
     background-color: rgb(230, 203, 191)
 }
 
+.subtitulo-celulares {
+    font-family: Arial, Gadget, sans-serif;
+    font-size: 32px;
+    font-style: oblique;
+    font-variant: small-caps;
+    color: rgb(161, 193, 203);
+}
+
+.foto-celulares {
+    margin-left: 50px;
+    padding: 5px 5px 5px 5px;
+    background-color: rgb(161, 193, 203);
+}
+
+.subtitulo-consolas {
+    font-family: Arial, Gadget, sans-serif;
+    font-size: 32px;
+    font-style: oblique;
+    font-variant: small-caps;
+    color: rgb(189, 189, 191);
+}
+
+.foto-consolas {
+    margin-left: 50px;
+    padding: 5px 5px 5px 5px;
+    background-color: rgb(189, 189, 191);
+}
+
+.subtitulo-home-theaters {
+    font-family: Arial, Gadget, sans-serif;
+    font-size: 32px;
+    font-style: oblique;
+    font-variant: small-caps;
+    color: rgb(141, 148, 161);
+}
+
+.foto-home-theaters {
+    margin-left: 50px;
+    padding: 5px 5px 5px 5px;
+    background-color: rgb(141, 148, 161);
+}
+
+.subtitulo-televisores {
+    font-family: Arial, Gadget, sans-serif;
+    font-size: 32px;
+    font-style: oblique;
+    font-variant: small-caps;
+    color: rgb(178, 178, 170);
+}
+
+.foto-televisores {
+    margin-left: 50px;
+    padding: 5px 5px 5px 5px;
+    background-color: rgb(178, 178, 170); 
+}

@@ -22,3 +22,6 @@ EJ: bcg color, color, margin, font (family, size) entre otras.
 <img  src="public/imagenes/ejemplo.png" alt="texto de ejemplo">
 ```
 con la propiedad padding le damos el espacio que queremos y la propiedad margin le damos el grosor al margen de la imagen
+
+### Terminamos de agregar las ultimas immagenes y parrafos y subimos a git y a netifly
+
