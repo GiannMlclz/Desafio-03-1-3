@@ -15,3 +15,10 @@ npm run dev
 ## Usamos las propiedades CSS para darle estilo al texto
 
 EJ: bcg color, color, margin, font (family, size) entre otras.
+
+### Para agregar una imagen utillizamos la etiqueta img y seleccionamos la carpeta imagenes con el nombre de la imagen que queramos usar
+
+```sh
+<img  src="public/imagenes/ejemplo.png" alt="texto de ejemplo">
+```
+con la propiedad padding le damos el espacio que queremos y la propiedad margin le damos el grosor al margen de la imagen

@@ -1,8 +1,9 @@
 body {
     background-color: rgb(41, 49, 58);
     color: white;
-    font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+    
 }
+
 
 h1 {
     color: rgb(105, 133, 147);
@@ -13,3 +14,23 @@ h1 {
     margin: 40px 0px 40px 0px;
     background-color: white;
 }
+
+.parrafos {
+    font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+    
+}
+
+.subtitulos {
+    font-family: Arial, Gadget, sans-serif;
+    font-size: 32px;
+    font-style: oblique;
+    font-variant: small-caps;
+    color: rgb(230, 203, 191);
+}   
+
+.imagenes {
+    margin-left: 50px;
+    padding: 5px 5px 5px 5px;
+    background-color: rgb(230, 203, 191)
+}
+
