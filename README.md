@@ -23,5 +23,16 @@ EJ: bcg color, color, margin, font (family, size) entre otras.
 ```
 con la propiedad padding le damos el espacio que queremos y la propiedad margin le damos el grosor al margen de la imagen
 
-### Terminamos de agregar las ultimas immagenes y parrafos y subimos a git y a netifly
+### Terminamos de agregar las ultimas imagenes, subtitulos y parrafos
 
+## subimos a github
+
+```sh
+git remote add origin https://github.com/GiannMlclz/Desafio-03-1-3.git
+git push -u origin main
+```
+
+## Subimos a netlify
+```sh
+https://desafio-03-parte-1-de-3.netlify.app/
+```
